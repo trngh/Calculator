@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\bin\Debug\LinkedListLibrary_Demo02.dll
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\bin\Debug\LinkedListLibrary_Demo02.pdb
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\obj\Debug\LinkedListLibrary_Demo02.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\obj\Debug\LinkedListLibrary_Demo02.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\obj\Debug\LinkedListLibrary_Demo02.dll
+C:\Users\ASUS\source\repos\CTDL\LinkedListLibrary_Demo02\LinkedListLibrary_Demo02\obj\Debug\LinkedListLibrary_Demo02.pdb

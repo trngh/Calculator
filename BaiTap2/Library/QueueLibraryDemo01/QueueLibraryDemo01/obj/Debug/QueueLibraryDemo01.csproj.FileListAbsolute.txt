@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\obj\Debug\QueueLibraryDemo01.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\obj\Debug\QueueLibraryDemo01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\bin\Debug\QueueLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\bin\Debug\QueueLibraryDemo01.pdb
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\obj\Debug\QueueLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\QueueLibraryDemo01\QueueLibraryDemo01\obj\Debug\QueueLibraryDemo01.pdb

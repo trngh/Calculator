@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\CalculatorLibrary01.dll
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\CalculatorLibrary01.pdb
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\LinkedListLibrary_Demo02.dll
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\QueueLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\StackLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\LinkedListLibrary_Demo02.pdb
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\QueueLibraryDemo01.pdb
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\bin\Debug\StackLibraryDemo01.pdb
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\obj\Debug\CalculatorLibrary01.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\obj\Debug\CalculatorLibrary01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\obj\Debug\CalculatorLibrary01.csproj.CopyComplete
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\obj\Debug\CalculatorLibrary01.dll
+C:\Users\ASUS\source\repos\CTDL\CalculatorLibrary01\CalculatorLibrary01\obj\Debug\CalculatorLibrary01.pdb

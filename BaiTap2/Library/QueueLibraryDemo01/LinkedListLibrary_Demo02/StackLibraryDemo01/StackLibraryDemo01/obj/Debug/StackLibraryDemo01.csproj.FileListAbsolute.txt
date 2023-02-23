@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\bin\Debug\StackLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\bin\Debug\StackLibraryDemo01.pdb
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\obj\Debug\StackLibraryDemo01.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\obj\Debug\StackLibraryDemo01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\obj\Debug\StackLibraryDemo01.dll
+C:\Users\ASUS\source\repos\CTDL\StackLibraryDemo01\StackLibraryDemo01\obj\Debug\StackLibraryDemo01.pdb
